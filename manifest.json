@@ -1,0 +1,11 @@
+{
+	"id": "resRelinker",
+	"name": "resRelinker",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically relinks and copies related files to a same-level _RES folder when Wikilinks are copied or moved to another note.",
+	"author": "Juicer",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
