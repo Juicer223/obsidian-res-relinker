@@ -1,6 +1,6 @@
 {
-	"id": "resRelinker",
-	"name": "resRelinker",
+	"id": "obsidian-res-relinker",
+	"name": "Res Relinker",
 	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Automatically relinks and copies related files to a same-level _RES folder when Wikilinks are copied or moved to another note.",
